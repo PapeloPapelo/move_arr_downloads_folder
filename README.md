@@ -13,8 +13,6 @@ and only copy small non hardlinked, non movie files aka bloat to the destination
 Afterwards you can point QBIT to the new Drive and keep seeding while the old drive won't have any bloat anymore. Old drive of course needs to run in order to seed.
 New Drive can be much smaller since no full sized movies will be copied. Which should allow to have the bloat of multiple drives combined into one seed / bloat drive.
 
-Pretty sure *arr can do something similar, this is for if you miss it and didn't specify different source and target folders for the hardlinked / cleaned movies.
-
 _____________________________________________________________________________________________________
 
 1. Start script as Admin, needed to create Symlinks.
