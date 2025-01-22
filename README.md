@@ -4,7 +4,7 @@ Assumptions:
 
 -One Drive has both, a '/Torrent/Movies' and a '/Media/Movies' folder as recommended by *arr guides.
 
--The '/Media' folder contains the cleaned up movies, Hardlinked by *arr. All movies which are not Hardlinked will be copied, make sure that *arr has processed all movies before running the script.
+-The '/Media' folder contains the cleaned up movies, Hardlinked by *arr. All movies/files which are not Hardlinked will be copied, make sure that *arr has processed all movies before running the script.
 
 _____________________________________________________________________________________________________
 <b> Goal </b> of the script is to move the '/Torrents' folder to another Drive without copying the full sized movies but instead creating symlinks for them,
