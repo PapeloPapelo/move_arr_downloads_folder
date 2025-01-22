@@ -28,4 +28,4 @@ ________________________________________________________________________________
 
 7. If it works, source location (H:\Torrents) can be deleted, only H:\Media with cleaned names should remain.
 
-Info: As long as one Hardlink remains the file will exist on the drive.
+Info: As long as one Hardlink remains the file will exist.
