@@ -25,6 +25,6 @@ ________________________________________________________________________________
 4. Point Q-Bit to new bloat drive / destination location
 5. Test if it works
 
-6. If it works, source location (H:\Torrents) can be deleted, only H:/Media with cleaned names will remain.
+6. If it works, source location (H:\Torrents) can be deleted, only H:\Media with cleaned names will remain.
 
 Info: As long as one Hardlink remains the file will exist on the drive.
