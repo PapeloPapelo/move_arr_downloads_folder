@@ -45,7 +45,7 @@ def copy_files_with_symlinks(source_dir, dest_dir):
     """
     Copies files from source_dir to dest_dir with the following logic:
     - If a file has multiple hard links, a symlink is created at the destination
-      that points to the correct file (not the deleted hard link in the source folder).
+      that points to the correct file (not the hard link in the source folder).
     - Otherwise, the file is copied normally.
     """
     # Walk through the source directory
